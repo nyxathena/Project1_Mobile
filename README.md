@@ -1,16 +1,22 @@
-# flutter_application_1
+Nama : Laras Diva Anjani
+NPM : 07352211058
 
-A new Flutter project.
+Deskripsi singkat Program:
+Program ini dibuat untuk menghitung gaji bersih karyawan berdasarkan data berikut:
 
-## Getting Started
+1. Nama karyawan (String)
+2. Jumlah jam kerja dalam seminggu (int)
+3. Upah per jam (double)
+4. Status karyawan (bool) → true = tetap, false = kontrak
+   Langkah perhitungan:
+5. Hitung gaji kotor = jam_kerja \* upah_per_jam.
+6. Jika status tetap → potong pajak 10%.
+7. Jika status kontrak → potong pajak 5%.
+8. Tampilkan nama karyawan, gaji kotor, potongan pajak, dan gaji bersih.
 
-This project is a starting point for a Flutter application.
+Instruksi cara menjalankan program:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. siapkan Dart sdk
+2. buat file program dart
+3. isi kode program kode dart
+4. jalankan program di terminal
