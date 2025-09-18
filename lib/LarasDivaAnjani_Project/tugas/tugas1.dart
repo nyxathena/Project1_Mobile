@@ -1,4 +1,4 @@
-//Tugas 1 Aplikasi Penghitung Gaji Karyawan
+//Tugas 1 Aplikasi Penghitung Gaji Karyawan (28 AGUSTUS 2025)
 //Laras Diva Anjani (07352211069)
 
 import 'dart:io';
